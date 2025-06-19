@@ -5,7 +5,8 @@
 
 This interactive dashboard offers a comprehensive analysis of:
 
-📊 Total Sales: $1.2M+
+📊 Total Sales: $1.2M+  
+
 📦 Number of Items: 8,523
 🌟 Average Rating: 3.9
 🍽️ Fat Content Analysis: Low Fat vs Regular
